@@ -1,0 +1,11 @@
+*{
+    background-color: blueviolet;
+}
+.parent{
+    display: flex;
+    width: 500px;
+    height: 600px;
+    border: 1px solid greenyellow;
+    justify-content: center;
+    align-items: center;
+}
